@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Maria Eduarda 👋
 
-- 🔭 Apaixonada por Programação Front-end
+- 🔭 Apaixonada por Programação 
 - 🌱 Estudando React
 
 <div align="center">
