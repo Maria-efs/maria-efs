@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Maria Eduarda 👋
 
 - 🔭 Apaixonada por Programação 
-- 🌱 Estudando React
+- 🌱 Estudando Python 
 
 <div align="center">
   <a href="https://github.com/maria-efs">
