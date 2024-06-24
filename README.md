@@ -1,6 +1,5 @@
 ### Olá! Eu sou a Maria Eduarda 👋
 
-- 🔭 Apaixonada por Programação 
 - 🌱 Estudando Python 
 
 <div align="center">
